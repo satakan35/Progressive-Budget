@@ -49,3 +49,14 @@ tr:nth-child(even) {
   width: 90%;
   margin: 0 auto;
 }
+
+
+/* on-off style */
+
+
+#container {
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+    color: #fff;
+}
